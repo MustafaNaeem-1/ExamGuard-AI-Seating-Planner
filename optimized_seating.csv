@@ -1,0 +1,101 @@
+Row,Col,StudentID,Subject,FriendGroupID,RiskScore
+0,0,S006,Math,15,6
+0,1,S012,Physics,18,3
+0,2,S011,Math,11,1
+0,3,S082,Biology,18,7
+0,4,S001,Math,9,3
+0,5,S047,Chemistry,3,6
+0,6,S036,Math,2,8
+0,7,S062,Biology,8,6
+0,8,S075,Chemistry,16,5
+0,9,S020,Biology,20,5
+1,0,S035,Chemistry,17,4
+1,1,S030,Math,5,1
+1,2,S024,Chemistry,3,6
+1,3,S025,Math,8,4
+1,4,S054,Chemistry,7,5
+1,5,S087,Physics,8,9
+1,6,S072,Biology,10,1
+1,7,S070,Computer Science,19,10
+1,8,S092,Math,20,4
+1,9,S040,Computer Science,10,1
+2,0,S086,Math,3,5
+2,1,S031,Biology,11,4
+2,2,S056,Physics,20,6
+2,3,S090,Chemistry,1,2
+2,4,S080,Physics,19,10
+2,5,S021,Biology,16,2
+2,6,S100,Math,11,10
+2,7,S017,Biology,15,1
+2,8,S023,Physics,11,9
+2,9,S052,Chemistry,14,3
+3,0,S095,Biology,20,7
+3,1,S028,Computer Science,18,5
+3,2,S034,Math,5,4
+3,3,S057,Biology,18,6
+3,4,S007,Math,10,6
+3,5,S014,Chemistry,19,2
+3,6,S032,Biology,10,1
+3,7,S078,Math,12,10
+3,8,S058,Computer Science,17,2
+3,9,S026,Biology,8,4
+4,0,S043,Physics,2,3
+4,1,S005,Math,1,4
+4,2,S033,Chemistry,14,1
+4,3,S016,Math,16,3
+4,4,S048,Computer Science,15,4
+4,5,S055,Biology,4,5
+4,6,S015,Math,1,8
+4,7,S069,Physics,10,3
+4,8,S060,Chemistry,4,4
+4,9,S096,Math,16,10
+5,0,S073,Chemistry,12,1
+5,1,S003,Physics,9,9
+5,2,S093,Computer Science,4,5
+5,3,S046,Chemistry,14,1
+5,4,S041,Biology,12,2
+5,5,S004,Math,8,4
+5,6,S059,Chemistry,11,2
+5,7,S068,Biology,8,8
+5,8,S098,Math,1,6
+5,9,S045,Biology,3,2
+6,0,S018,Physics,7,3
+6,1,S083,Chemistry,1,1
+6,2,S013,Math,17,4
+6,3,S010,Biology,3,1
+6,4,S063,Physics,8,1
+6,5,S088,Computer Science,1,4
+6,6,S002,Math,10,5
+6,7,S071,Computer Science,3,1
+6,8,S050,Biology,13,4
+6,9,S008,Physics,19,10
+7,0,S038,Math,10,6
+7,1,S037,Biology,4,3
+7,2,S061,Chemistry,3,6
+7,3,S089,Computer Science,16,6
+7,4,S091,Math,7,2
+7,5,S077,Physics,12,2
+7,6,S099,Biology,19,3
+7,7,S039,Math,1,4
+7,8,S097,Computer Science,12,10
+7,9,S027,Math,4,1
+8,0,S085,Biology,9,1
+8,1,S081,Physics,15,4
+8,2,S066,Biology,1,4
+8,3,S009,Math,11,1
+8,4,S053,Chemistry,19,8
+8,5,S067,Biology,10,2
+8,6,S044,Math,5,4
+8,7,S022,Chemistry,4,5
+8,8,S065,Math,16,5
+8,9,S079,Biology,17,3
+9,0,S074,Math,13,8
+9,1,S064,Computer Science,11,5
+9,2,S051,Physics,16,3
+9,3,S094,Biology,2,7
+9,4,S029,Physics,9,1
+9,5,S049,Math,20,6
+9,6,S076,Chemistry,15,3
+9,7,S019,Physics,18,9
+9,8,S042,Biology,4,2
+9,9,S084,Chemistry,16,7

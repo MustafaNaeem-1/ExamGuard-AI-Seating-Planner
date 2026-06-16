@@ -1,0 +1,79 @@
+--- RAW OCR RESULTS ---
+Pos: [np.int32(50), np.int32(38)] | Text: 'S.No.' | Conf: 0.39
+Pos: [np.int32(202), np.int32(40)] | Text: 'ID' | Conf: 0.99
+Pos: [np.int32(383), np.int32(39)] | Text: 'Name' | Conf: 0.99
+Pos: [np.int32(610), np.int32(37)] | Text: 'Course Assigned' | Conf: 1.00
+Pos: [np.int32(899), np.int32(37)] | Text: 'Friends (Close Friends from the List)' | Conf: 0.46
+Pos: [np.int32(196), np.int32(88)] | Text: '105' | Conf: 1.00
+Pos: [np.int32(392), np.int32(88)] | Text: 'Saad' | Conf: 1.00
+Pos: [np.int32(585), np.int32(85)] | Text: 'Compiler Construction' | Conf: 0.97
+Pos: [np.int32(962), np.int32(85)] | Text: 'Mahad, Saif, Ahmed' | Conf: 0.88
+Pos: [np.int32(196), np.int32(134)] | Text: '106' | Conf: 1.00
+Pos: [np.int32(384), np.int32(136)] | Text: 'Mahad' | Conf: 1.00
+Pos: [np.int32(585), np.int32(131)] | Text: 'Compiler Construction' | Conf: 0.90
+Pos: [np.int32(948), np.int32(133)] | Text: 'Saad, Hamad, Abdullah' | Conf: 0.72
+Pos: [np.int32(71), np.int32(185)] | Text: '3' | Conf: 1.00
+Pos: [np.int32(196), np.int32(182)] | Text: '107' | Conf: 1.00
+Pos: [np.int32(394), np.int32(182)] | Text: 'Zaid' | Conf: 1.00
+Pos: [np.int32(584), np.int32(178)] | Text: 'Compiler Construction' | Conf: 0.99
+Pos: [np.int32(966), np.int32(181)] | Text: 'Yasir; Umer; Hamza' | Conf: 0.73
+Pos: [np.int32(69), np.int32(233)] | Text: '4.' | Conf: 0.95
+Pos: [np.int32(196), np.int32(230)] | Text: '108' | Conf: 1.00
+Pos: [np.int32(376), np.int32(230)] | Text: 'Abdullah' | Conf: 1.00
+Pos: [np.int32(584), np.int32(226)] | Text: 'Compiler Construction' | Conf: 0.99
+Pos: [np.int32(946), np.int32(230)] | Text: 'Mahad, Mustafa, Ahmed' | Conf: 0.85
+Pos: [np.int32(69), np.int32(279)] | Text: '5.' | Conf: 1.00
+Pos: [np.int32(196), np.int32(278)] | Text: '109' | Conf: 1.00
+Pos: [np.int32(380), np.int32(278)] | Text: 'Mustafa' | Conf: 1.00
+Pos: [np.int32(585), np.int32(274)] | Text: 'Compiler Construction' | Conf: 1.00
+Pos: [np.int32(942), np.int32(277)] | Text: 'Abdullah; Yaqub, Hamad' | Conf: 0.80
+Pos: [np.int32(69), np.int32(327)] | Text: '6.' | Conf: 0.94
+Pos: [np.int32(196), np.int32(326)] | Text: '110' | Conf: 1.00
+Pos: [np.int32(388), np.int32(325)] | Text: 'Umer' | Conf: 1.00
+Pos: [np.int32(585), np.int32(322)] | Text: 'Compiler Construction' | Conf: 1.00
+Pos: [np.int32(980), np.int32(325)] | Text: 'Zaid, Yasir; Asad' | Conf: 0.66
+Pos: [np.int32(69), np.int32(375)] | Text: '7 .' | Conf: 0.79
+Pos: [np.int32(196), np.int32(374)] | Text: '111' | Conf: 1.00
+Pos: [np.int32(392), np.int32(374)] | Text: 'Yasir' | Conf: 1.00
+Pos: [np.int32(585), np.int32(370)] | Text: 'Compiler Construction' | Conf: 1.00
+Pos: [np.int32(974), np.int32(372)] | Text: 'Umer; Zaid, Fasih' | Conf: 0.77
+Pos: [np.int32(69), np.int32(423)] | Text: '8 ,' | Conf: 0.31
+Pos: [np.int32(196), np.int32(422)] | Text: '112' | Conf: 1.00
+Pos: [np.int32(384), np.int32(422)] | Text: 'Ahmed' | Conf: 1.00
+Pos: [np.int32(585), np.int32(417)] | Text: 'Compiler Construction' | Conf: 1.00
+Pos: [np.int32(962), np.int32(420)] | Text: 'Saad, Abdullah, Saif' | Conf: 0.88
+Pos: [np.int32(69), np.int32(469)] | Text: '9.' | Conf: 1.00
+Pos: [np.int32(196), np.int32(468)] | Text: '113' | Conf: 1.00
+Pos: [np.int32(392), np.int32(468)] | Text: 'Asad' | Conf: 1.00
+Pos: [np.int32(585), np.int32(465)] | Text: 'Compiler Construction' | Conf: 0.80
+Pos: [np.int32(962), np.int32(464)] | Text: 'Saif, Mustafa, Yaqub' | Conf: 0.95
+Pos: [np.int32(62), np.int32(514)] | Text: '10.' | Conf: 0.98
+Pos: [np.int32(196), np.int32(514)] | Text: '114' | Conf: 1.00
+Pos: [np.int32(396), np.int32(514)] | Text: 'Saif' | Conf: 1.00
+Pos: [np.int32(584), np.int32(508)] | Text: 'Compiler Construction' | Conf: 0.97
+Pos: [np.int32(954), np.int32(512)] | Text: 'Saad, Ahmed, Hamad' | Conf: 0.73
+Pos: [np.int32(62), np.int32(556)] | Text: '11.' | Conf: 0.94
+Pos: [np.int32(196), np.int32(556)] | Text: '115' | Conf: 1.00
+Pos: [np.int32(390), np.int32(556)] | Text: 'Fasih' | Conf: 0.74
+Pos: [np.int32(585), np.int32(552)] | Text: 'Compiler Construction' | Conf: 1.00
+Pos: [np.int32(960), np.int32(555)] | Text: 'Yasir; Hamza, Yaqub' | Conf: 0.94
+Pos: [np.int32(62), np.int32(600)] | Text: '12.' | Conf: 0.97
+Pos: [np.int32(196), np.int32(600)] | Text: '116' | Conf: 1.00
+Pos: [np.int32(386), np.int32(600)] | Text: 'Yaqub' | Conf: 1.00
+Pos: [np.int32(585), np.int32(597)] | Text: 'Compiler Construction' | Conf: 0.78
+Pos: [np.int32(960), np.int32(600)] | Text: 'Mustafa, Asad, Fasih' | Conf: 0.95
+Pos: [np.int32(62), np.int32(644)] | Text: '13.' | Conf: 0.99
+Pos: [np.int32(196), np.int32(644)] | Text: '117' | Conf: 1.00
+Pos: [np.int32(384), np.int32(644)] | Text: 'Hamza' | Conf: 1.00
+Pos: [np.int32(585), np.int32(642)] | Text: 'Compiler Construction' | Conf: 0.76
+Pos: [np.int32(964), np.int32(643)] | Text: 'Zaid, Fasih, Hamad' | Conf: 0.97
+Pos: [np.int32(62), np.int32(690)] | Text: '14.' | Conf: 0.93
+Pos: [np.int32(196), np.int32(690)] | Text: '118' | Conf: 1.00
+Pos: [np.int32(382), np.int32(692)] | Text: 'Hamad' | Conf: 1.00
+Pos: [np.int32(585), np.int32(686)] | Text: 'Compiler Construction' | Conf: 1.00
+Pos: [np.int32(959), np.int32(688)] | Text: 'Mahad, Mustafa, Saif' | Conf: 0.81
+Pos: [np.int32(62), np.int32(736)] | Text: '15.' | Conf: 1.00
+Pos: [np.int32(196), np.int32(736)] | Text: '119' | Conf: 1.00
+Pos: [np.int32(394), np.int32(736)] | Text: 'Zaid' | Conf: 1.00
+Pos: [np.int32(585), np.int32(733)] | Text: 'Compiler Construction' | Conf: 0.75
+Pos: [np.int32(958), np.int32(735)] | Text: 'Umer; Hamza, Yaqub' | Conf: 0.94

@@ -1,0 +1,601 @@
+Serial No.,ID,Name,Course Assigned,Friends
+1,S001,Anaya Bukhari,CN,Sana Latif|Amna Farooq
+2,S002,Nimra Farooq,DBMS,Mahnoor Rehman|Mahnoor Abbasi
+3,S003,Talha Rehman,DSA,Maryam Siddiqui
+4,S004,Danish Javed,DBMS,Sara Raza
+5,S005,Sana Siddiqui,OS,Mahnoor Dar
+6,S006,Danish Mirza,DBMS,Taha Hussain|Abdullah Shah|Hina Ansari
+7,S007,Usman Raza,CN,Sameer Hashmi|Nimra Bukhari|Ayesha Malik
+8,S008,Saad Qureshi,OS,Yasir Sheikh
+9,S009,Sidra Abbasi,SE,Mahnoor Rehman|Anaya Nawaz|Hamza Akhtar
+10,S010,Yasir Raza,DBMS,Sidra Chaudhry|Iqra Sheikh
+11,S011,Ayesha Ansari,AI,Bilal Saleem|Amna Sheikh
+12,S012,Ahmed Khan,AI,Iqra Abbasi
+13,S013,Saad Shah,DBMS,Rabia Hashmi|Ayaan Nawaz
+14,S014,Laiba Akhtar,DBMS,Talha Saleem
+15,S015,Iqra Baig,DBMS,Bilal Iqbal
+16,S016,Amna Qureshi,DSA,Shahzaib Ansari
+17,S017,Danish Rehman,DBMS,Amna Hussain|Talha Bukhari|Abdullah Hussain
+18,S018,Sameer Dar,CN,Khadija Baig
+19,S019,Ayesha Chaudhry,AI,Sameer Ansari
+20,S020,Ayesha Malik,AI,Iqra Bukhari|Talha Butt|Saad Qureshi
+21,S021,Fatima Baig,CN,Mahnoor Siddiqui
+22,S022,Mahnoor Mirza,DBMS,Sana Butt|Mahnoor Rehman
+23,S023,Eman Javed,SE,Ahmed Qureshi|Sara Ali
+24,S024,Hassan Sheikh,AI,Iqra Shah|Shahzaib Zafar
+25,S025,Ayaan Dar,OS,Zara Aslam|Farhan Raza
+26,S026,Ahmed Rehman,SE,Maryam Dar
+27,S027,Eman Raza,DBMS,Danish Rehman|Danish Ali|Zara Zafar
+28,S028,Laiba Rehman,DSA,Sara Raza|Hamza Iqbal
+29,S029,Yasir Shah,DBMS,Saad Abbasi
+30,S030,Sana Latif,AI,Shahzaib Aslam|Hassan Sheikh|Saad Sheikh
+31,S031,Zain Butt,AI,Talha Mirza|Sara Raza|Abdullah Aslam
+32,S032,Sara Raza,OS,Hina Hashmi|Laiba Akhtar|Anaya Iqbal
+33,S033,Maryam Chaudhry,SE,Talha Chaudhry
+34,S034,Hassan Raza,SE,Saad Latif
+35,S035,Ahmed Javed,DSA,Iqra Iqbal
+36,S036,Usman Baig,CN,Mahnoor Bukhari|Usman Ali
+37,S037,Yasir Latif,DSA,Kinza Ahmed
+38,S038,Saad Sheikh,SE,Danish Malik|Bilal Hussain
+39,S039,Hamza Hashmi,CN,Saad Bukhari
+40,S040,Hassan Khan,DBMS,Nimra Ansari|Eman Farooq|Hina Saleem
+41,S041,Ibrahim Hussain,CN,Maryam Aslam
+42,S042,Kinza Malik,CN,Sara Bukhari|Ayaan Mirza
+43,S043,Shahzaib Zafar,DBMS,Yasir Latif|Mahnoor Siddiqui
+44,S044,Sameer Butt,AI,Amna Butt
+45,S045,Rabia Khan,AI,Maryam Iqbal|Laiba Ali|Abdullah Dar
+46,S046,Danish Hussain,ML,Farhan Zafar|Ayaan Nawaz
+47,S047,Maryam Bukhari,OS,Khadija Ansari
+48,S048,Zara Aslam,OS,Sameer Raza
+49,S049,Kinza Butt,SE,Sara Abbasi|Khadija Ali|Fatima Saleem
+50,S050,Ahmed Ahmed,ML,Farhan Javed|Zain Khan|Hamza Akhtar
+51,S051,Ibrahim Qureshi,AI,Zain Akhtar|Mahnoor Mirza
+52,S052,Yasir Sheikh,CN,Hassan Sheikh
+53,S053,Danish Hashmi,ML,Shahzaib Siddiqui|Hassan Sheikh|Iqra Siddiqui
+54,S054,Nimra Baig,OS,Talha Saleem|Saad Abbasi
+55,S055,Kinza Malik,CN,Ibrahim Ahmed
+56,S056,Hamza Akhtar,DBMS,Laiba Raza|Sana Latif
+57,S057,Zara Iqbal,SE,Zain Butt|Taha Hussain|Laiba Latif
+58,S058,Mahnoor Rehman,CN,Nimra Ansari
+59,S059,Sidra Khan,SE,Abdullah Hussain|Sameer Malik|Abdullah Siddiqui
+60,S060,Zara Hashmi,DSA,Kinza Malik
+61,S061,Amna Nawaz,ML,Zain Butt|Amna Latif|Danish Hashmi
+62,S062,Sidra Hashmi,DSA,Maryam Chaudhry|Rabia Baig
+63,S063,Sana Saleem,CN,Laiba Rashid
+64,S064,Fatima Sheikh,OS,Zara Saleem|Sara Ali
+65,S065,Ayesha Shah,DSA,Sara Siddiqui|Taha Hussain
+66,S066,Rabia Baig,OS,Eman Latif
+67,S067,Yasir Shah,SE,Usman Malik
+68,S068,Zain Dar,DBMS,Mahnoor Butt
+69,S069,Ali Abbasi,ML,Zara Mirza|Amna Sheikh
+70,S070,Anaya Iqbal,ML,Kinza Bukhari
+71,S071,Mahnoor Chaudhry,OS,Kinza Malik|Sameer Rehman
+72,S072,Mahnoor Farooq,AI,Mehak Ansari
+73,S073,Ayesha Javed,SE,Ali Ansari
+74,S074,Noor Siddiqui,OS,Khadija Dar|Ahmed Rehman|Usman Sheikh
+75,S075,Ali Qureshi,DSA,Sameer Dar|Fatima Sheikh|Sameer Saleem
+76,S076,Usman Sheikh,CN,Ali Akhtar|Danish Bukhari
+77,S077,Nimra Farooq,CN,Khadija Baig|Talha Ahmed|Ayesha Ansari
+78,S078,Farhan Zafar,AI,Khadija Saleem|Ibrahim Qureshi|Hussain Chaudhry
+79,S079,Hina Ansari,CN,Iqra Siddiqui|Talha Ahmed
+80,S080,Eman Latif,SE,Yasir Shah|Yasir Ali|Abdullah Shah
+81,S081,Ibrahim Mirza,AI,Taha Khan
+82,S082,Mahnoor Rehman,DBMS,Ibrahim Aslam|Iqra Shah|Sameer Malik
+83,S083,Mehak Nawaz,DBMS,Talha Bukhari
+84,S084,Taha Malik,DSA,Zain Ahmed|Hassan Hashmi|Abdullah Siddiqui
+85,S085,Ayesha Saleem,SE,Sana Latif|Zain Butt|Omar Rashid
+86,S086,Ayesha Mirza,SE,Noor Akhtar|Noor Ansari
+87,S087,Amna Farooq,OS,Kinza Baig|Ayaan Farooq|Shahzaib Akhtar
+88,S088,Sana Dar,DSA,Shahzaib Siddiqui|Yasir Butt
+89,S089,Ali Qureshi,ML,Mahnoor Farooq|Rabia Shah
+90,S090,Sara Raza,DSA,Hina Hashmi|Ayesha Bukhari
+91,S091,Zain Butt,SE,Hassan Hashmi|Hussain Butt
+92,S092,Laiba Dar,OS,Danish Baig
+93,S093,Laiba Latif,DBMS,Fatima Latif
+94,S094,Ahmed Bukhari,SE,Ahmed Abbasi|Hina Siddiqui
+95,S095,Shahzaib Siddiqui,SE,Ali Butt|Rabia Aslam|Farhan Javed
+96,S096,Iqra Khan,DSA,Ibrahim Iqbal|Fatima Ahmed
+97,S097,Zara Zafar,SE,Nimra Rashid
+98,S098,Shahzaib Malik,DBMS,Sara Akhtar|Abdullah Sheikh|Iqra Ansari
+99,S099,Usman Abbasi,CN,Ibrahim Rehman|Omar Shah|Ayesha Latif
+100,S100,Hassan Javed,DSA,Saad Raza|Omar Butt
+101,S101,Ali Ahmed,DBMS,Usman Baig
+102,S102,Eman Zafar,ML,Iqra Butt|Eman Qureshi
+103,S103,Shahzaib Nawaz,CN,Ayaan Sheikh
+104,S104,Khadija Dar,DSA,Hassan Hashmi
+105,S105,Bilal Hashmi,DSA,Anaya Bukhari
+106,S106,Taha Siddiqui,ML,Khadija Zafar
+107,S107,Bilal Rehman,CN,Danish Mirza|Laiba Akhtar|Laiba Rehman
+108,S108,Danish Rashid,CN,Hina Latif|Talha Mirza|Mahnoor Abbasi
+109,S109,Iqra Abbasi,DSA,Amna Hussain|Ayaan Abbasi
+110,S110,Abdullah Abbasi,DSA,Maryam Iqbal
+111,S111,Noor Nawaz,OS,Bilal Ali|Sara Raza
+112,S112,Sara Akhtar,AI,Zain Butt|Hussain Hussain|Nimra Rashid
+113,S113,Anaya Rashid,DBMS,Saad Rehman
+114,S114,Mahnoor Rehman,SE,Ibrahim Ahmed|Danish Siddiqui
+115,S115,Usman Chaudhry,DBMS,Hassan Saleem
+116,S116,Talha Saleem,OS,Danish Malik|Sidra Abbasi|Hassan Sheikh
+117,S117,Mahnoor Dar,AI,Zain Malik|Anaya Sheikh|Shahzaib Zafar
+118,S118,Maryam Nawaz,AI,Yasir Shah|Ibrahim Ahmed|Maryam Raza
+119,S119,Hamza Chaudhry,CN,Talha Chaudhry|Yasir Hussain|Amna Nawaz
+120,S120,Noor Butt,CN,Usman Butt|Kinza Baig|Kinza Zafar
+121,S121,Mehak Javed,DSA,Abdullah Aslam
+122,S122,Hamza Akhtar,DBMS,Mahnoor Chaudhry|Zara Aslam|Usman Baig
+123,S123,Ayesha Bukhari,ML,Noor Chaudhry|Amna Hashmi
+124,S124,Maryam Malik,DSA,Noor Nawaz|Maryam Siddiqui|Laiba Latif
+125,S125,Anaya Saleem,DSA,Saad Khan|Bilal Javed|Yasir Shah
+126,S126,Danish Baig,OS,Ayesha Khan|Nimra Farooq|Sameer Malik
+127,S127,Farhan Akhtar,DSA,Mahnoor Javed|Ali Qureshi
+128,S128,Hussain Raza,DSA,Kinza Zafar|Sara Bukhari
+129,S129,Mehak Nawaz,DSA,Zara Aslam|Ibrahim Javed|Maryam Khan
+130,S130,Sana Zafar,DBMS,Zara Saleem|Mahnoor Bukhari|Hina Saleem
+131,S131,Eman Saleem,SE,Ibrahim Ahmed|Fatima Butt
+132,S132,Zain Qureshi,DBMS,Ahmed Rashid
+133,S133,Yasir Ali,DBMS,Shahzaib Malik|Danish Ahmed
+134,S134,Eman Qureshi,DSA,Noor Hashmi|Fatima Nawaz|Ali Qureshi
+135,S135,Kinza Bukhari,DBMS,Maryam Khan
+136,S136,Hassan Saleem,ML,Nimra Javed|Zara Aslam
+137,S137,Sameer Malik,ML,Taha Latif
+138,S138,Omar Shah,AI,Sameer Saleem
+139,S139,Ali Nawaz,SE,Khadija Zafar|Ahmed Ahmed|Ayesha Iqbal
+140,S140,Ali Chaudhry,DSA,Khadija Dar|Anaya Shah|Ayesha Saleem
+141,S141,Noor Akhtar,ML,Rabia Javed|Eman Latif|Iqra Ansari
+142,S142,Zain Iqbal,OS,Khadija Baig|Ayesha Chaudhry
+143,S143,Sameer Akhtar,AI,Ibrahim Rehman
+144,S144,Danish Bukhari,SE,Ayesha Iqbal
+145,S145,Hussain Malik,CN,Iqra Nawaz|Talha Shah|Mahnoor Ali
+146,S146,Ali Ansari,DBMS,Zain Butt|Mahnoor Nawaz|Bilal Javed
+147,S147,Omar Latif,AI,Kinza Abbasi|Nimra Qureshi|Yasir Iqbal
+148,S148,Sidra Chaudhry,CN,Hamza Hashmi
+149,S149,Maryam Khan,DBMS,Eman Ansari|Ayaan Mirza|Mahnoor Dar
+150,S150,Shahzaib Ansari,DSA,Mehak Ahmed|Shahzaib Aslam|Mahnoor Aslam
+151,S151,Abdullah Abbasi,DBMS,Hamza Hashmi|Taha Sheikh
+152,S152,Zara Baig,SE,Amna Nawaz
+153,S153,Ibrahim Qureshi,SE,Iqra Siddiqui|Mahnoor Rehman
+154,S154,Hamza Baig,DBMS,Shahzaib Raza
+155,S155,Hamza Akhtar,ML,Mahnoor Rehman
+156,S156,Ibrahim Latif,ML,Iqra Siddiqui
+157,S157,Sameer Farooq,SE,Khadija Dar|Mehak Ahmed|Ayesha Malik
+158,S158,Kinza Abbasi,CN,Danish Zafar|Laiba Latif|Anaya Sheikh
+159,S159,Sara Bukhari,ML,Khadija Dar|Abdullah Dar
+160,S160,Taha Qureshi,OS,Hussain Rashid|Danish Akhtar|Talha Ansari
+161,S161,Mahnoor Bukhari,AI,Usman Khan|Saad Raza
+162,S162,Farhan Raza,SE,Anaya Shah|Hina Latif|Rabia Rashid
+163,S163,Shahzaib Mirza,ML,Kinza Sheikh
+164,S164,Mahnoor Siddiqui,AI,Usman Butt|Sameer Aslam
+165,S165,Ayesha Iqbal,AI,Fatima Aslam|Noor Hashmi
+166,S166,Fatima Abbasi,DBMS,Khadija Saleem|Omar Shah
+167,S167,Omar Rashid,DSA,Danish Ali
+168,S168,Taha Abbasi,CN,Nimra Latif
+169,S169,Farhan Siddiqui,CN,Talha Saleem
+170,S170,Maryam Iqbal,ML,Sara Siddiqui|Hussain Butt|Zara Zafar
+171,S171,Saad Ali,OS,Danish Baig
+172,S172,Anaya Sheikh,DBMS,Anaya Hussain|Ahmed Ahmed
+173,S173,Hina Siddiqui,DBMS,Hussain Malik|Abdullah Abbasi
+174,S174,Amna Nawaz,SE,Farhan Akhtar|Khadija Saleem
+175,S175,Sidra Akhtar,SE,Sara Raza|Hamza Javed
+176,S176,Ahmed Iqbal,AI,Sara Abbasi
+177,S177,Danish Javed,AI,Hamza Latif|Iqra Ansari
+178,S178,Ayaan Sheikh,ML,Sameer Dar
+179,S179,Ahmed Rashid,DSA,Fatima Saleem|Anaya Sheikh
+180,S180,Ayesha Shah,DSA,Hassan Khan|Taha Latif|Sana Butt
+181,S181,Sana Butt,DBMS,Hussain Chaudhry|Iqra Baig|Usman Butt
+182,S182,Sana Shah,OS,Khadija Dar|Eman Shah|Hassan Raza
+183,S183,Zara Mirza,ML,Ayaan Hashmi|Usman Sheikh|Bilal Rehman
+184,S184,Amna Rashid,DBMS,Danish Javed
+185,S185,Usman Iqbal,AI,Danish Javed
+186,S186,Ibrahim Baig,DBMS,Noor Hashmi|Laiba Latif
+187,S187,Khadija Khan,OS,Iqra Khan|Iqra Siddiqui|Mehak Chaudhry
+188,S188,Saad Bukhari,CN,Sara Raza|Iqra Iqbal
+189,S189,Khadija Nawaz,DBMS,Nimra Latif|Danish Siddiqui|Farhan Javed
+190,S190,Nimra Qureshi,SE,Sana Saleem|Usman Khan|Talha Ansari
+191,S191,Khadija Ahmed,OS,Hassan Saleem|Shahzaib Raza|Ahmed Abbasi
+192,S192,Mahnoor Baig,OS,Anaya Saleem|Mehak Khan|Zain Ahmed
+193,S193,Maryam Shah,OS,Mahnoor Javed
+194,S194,Sameer Saleem,OS,Anaya Zafar|Hina Akhtar|Usman Khan
+195,S195,Danish Ali,DSA,Hina Saleem
+196,S196,Usman Khan,DBMS,Kinza Butt
+197,S197,Mehak Rashid,DBMS,Taha Siddiqui
+198,S198,Zain Qureshi,AI,Eman Zafar
+199,S199,Maryam Iqbal,AI,Maryam Dar
+200,S200,Shahzaib Ansari,DBMS,Hassan Rashid|Noor Akhtar|Sameer Aslam
+201,S201,Rabia Javed,ML,Ibrahim Aslam
+202,S202,Bilal Farooq,ML,Ayesha Bukhari|Usman Baig|Sana Zafar
+203,S203,Hamza Iqbal,ML,Hamza Hashmi|Hassan Saleem
+204,S204,Amna Latif,DBMS,Hussain Hussain|Usman Khan|Eman Latif
+205,S205,Saad Raza,ML,Hina Saleem|Iqra Baig
+206,S206,Zain Iqbal,OS,Hassan Saleem|Saad Latif
+207,S207,Sameer Raza,AI,Ayaan Javed|Sidra Abbasi
+208,S208,Sameer Rehman,DBMS,Noor Butt|Iqra Abbasi
+209,S209,Zain Rashid,ML,Hina Raza
+210,S210,Eman Hussain,DBMS,Laiba Ali|Sameer Hashmi
+211,S211,Laiba Raza,DSA,Sana Shah|Mahnoor Aslam|Sidra Abbasi
+212,S212,Shahzaib Chaudhry,SE,Zain Dar|Iqra Khan|Anaya Sheikh
+213,S213,Talha Mirza,SE,Eman Ansari|Kinza Malik|Saad Latif
+214,S214,Khadija Ansari,DSA,Abdullah Dar
+215,S215,Sameer Ansari,CN,Kinza Abbasi|Ali Qureshi|Noor Saleem
+216,S216,Saad Abbasi,DSA,Danish Raza
+217,S217,Amna Sheikh,SE,Ayesha Bukhari|Anaya Bukhari|Iqra Chaudhry
+218,S218,Sana Hashmi,CN,Danish Saleem|Danish Rehman
+219,S219,Saad Chaudhry,OS,Mahnoor Farooq|Omar Shah
+220,S220,Amna Iqbal,CN,Rabia Baig
+221,S221,Sameer Hashmi,DSA,Ayaan Hashmi|Iqra Nawaz|Mahnoor Chaudhry
+222,S222,Maryam Nawaz,CN,Danish Rashid|Saad Latif
+223,S223,Sana Raza,DBMS,Ahmed Iqbal|Yasir Iqbal
+224,S224,Iqra Rashid,DSA,Fatima Akhtar|Ayesha Shah|Abdullah Abbasi
+225,S225,Hussain Butt,AI,Eman Javed|Farhan Siddiqui|Ayesha Iqbal
+226,S226,Iqra Saleem,AI,Rabia Malik|Iqra Iqbal
+227,S227,Zain Akhtar,DSA,Danish Ahmed
+228,S228,Nimra Latif,AI,Saad Zafar|Yasir Butt|Shahzaib Akhtar
+229,S229,Danish Raza,AI,Ayesha Bukhari
+230,S230,Noor Hashmi,AI,Eman Butt|Zain Butt
+231,S231,Eman Butt,DBMS,Eman Saleem|Danish Akhtar
+232,S232,Talha Dar,ML,Abdullah Shah
+233,S233,Iqra Iqbal,AI,Eman Qureshi
+234,S234,Anaya Latif,ML,Shahzaib Ansari|Anaya Hussain
+235,S235,Khadija Saleem,CN,Ahmed Rehman
+236,S236,Ayesha Khan,CN,Hassan Sheikh
+237,S237,Ayaan Abbasi,ML,Sana Butt|Ali Qureshi
+238,S238,Noor Khan,SE,Ayesha Dar|Yasir Ansari
+239,S239,Ayaan Zafar,OS,Taha Hussain
+240,S240,Rabia Hashmi,DSA,Ayaan Malik|Yasir Iqbal|Hamza Akhtar
+241,S241,Khadija Mirza,DBMS,Shahzaib Nawaz
+242,S242,Noor Chaudhry,AI,Talha Bukhari
+243,S243,Ibrahim Iqbal,AI,Usman Butt
+244,S244,Omar Shah,DSA,Amna Rashid
+245,S245,Saad Ansari,DSA,Yasir Ansari|Iqra Chaudhry|Saad Shah
+246,S246,Hassan Sheikh,ML,Talha Rashid|Ibrahim Bukhari|Ali Chaudhry
+247,S247,Saad Khan,CN,Danish Hashmi|Ahmed Javed
+248,S248,Yasir Saleem,SE,Hamza Bukhari|Yasir Sheikh|Mehak Khan
+249,S249,Mahnoor Hussain,DBMS,Rabia Khan|Kinza Bukhari
+250,S250,Eman Shah,DBMS,Saad Sheikh|Taha Latif
+251,S251,Danish Rashid,CN,Sidra Khan|Khadija Ahmed
+252,S252,Talha Rashid,AI,Zara Farooq|Hamza Akhtar|Hamza Chaudhry
+253,S253,Laiba Ali,OS,Ayaan Iqbal|Zain Akhtar|Noor Ansari
+254,S254,Talha Shah,OS,Iqra Abbasi|Sara Akhtar|Kinza Zafar
+255,S255,Fatima Bukhari,ML,Rabia Javed|Ibrahim Bukhari|Kinza Baig
+256,S256,Mehak Chaudhry,CN,Saad Latif|Danish Siddiqui
+257,S257,Abdullah Sheikh,SE,Yasir Ansari|Mahnoor Rehman|Abdullah Shah
+258,S258,Fatima Akhtar,DBMS,Usman Raza
+259,S259,Hassan Ahmed,AI,Nimra Rashid
+260,S260,Usman Chaudhry,ML,Iqra Rashid
+261,S261,Amna Nawaz,DSA,Shahzaib Mirza|Talha Chaudhry
+262,S262,Ayaan Malik,DBMS,Hassan Javed
+263,S263,Farhan Malik,SE,Laiba Zafar
+264,S264,Ayaan Malik,SE,Usman Chaudhry
+265,S265,Rabia Butt,OS,Anaya Bukhari|Hamza Chaudhry
+266,S266,Bilal Saleem,DSA,Ahmed Rashid|Rabia Latif
+267,S267,Danish Siddiqui,SE,Sameer Farooq
+268,S268,Ahmed Siddiqui,OS,Laiba Raza|Sameer Akhtar
+269,S269,Mahnoor Hussain,ML,Sameer Siddiqui|Ayaan Malik
+270,S270,Bilal Dar,CN,Maryam Iqbal|Noor Akhtar
+271,S271,Abdullah Aslam,CN,Shahzaib Malik|Eman Ansari
+272,S272,Yasir Butt,CN,Hamza Rehman|Hamza Akhtar
+273,S273,Anaya Hussain,DSA,Nimra Javed|Usman Qureshi|Iqra Chaudhry
+274,S274,Omar Baig,SE,Sana Hashmi|Zara Ansari
+275,S275,Maryam Saleem,DBMS,Mahnoor Chaudhry
+276,S276,Saad Abbasi,ML,Usman Nawaz
+277,S277,Zara Akhtar,DSA,Mehak Ahmed
+278,S278,Rabia Rashid,OS,Yasir Latif|Omar Butt
+279,S279,Sana Latif,DSA,Khadija Mirza
+280,S280,Mehak Rashid,OS,Mehak Nawaz
+281,S281,Khadija Zafar,ML,Ayaan Abbasi
+282,S282,Maryam Ali,DBMS,Hamza Chaudhry
+283,S283,Saad Nawaz,SE,Maryam Akhtar
+284,S284,Fatima Saleem,AI,Saad Zafar
+285,S285,Nimra Rashid,DBMS,Rabia Sheikh|Khadija Dar|Anaya Bukhari
+286,S286,Talha Chaudhry,CN,Mahnoor Rehman|Kinza Mirza|Maryam Akhtar
+287,S287,Danish Rehman,AI,Iqra Sheikh|Saad Abbasi|Zara Ansari
+288,S288,Ayaan Mirza,CN,Eman Qureshi
+289,S289,Maryam Saleem,SE,Rabia Javed|Zara Ansari
+290,S290,Danish Ahmed,OS,Eman Farooq|Nimra Farooq
+291,S291,Noor Saleem,OS,Usman Ali|Zain Qureshi
+292,S292,Hina Akhtar,AI,Fatima Saleem
+293,S293,Hina Bukhari,DBMS,Laiba Latif|Hamza Javed|Sara Raza
+294,S294,Danish Mirza,DSA,Rabia Sheikh|Sara Rashid|Iqra Nawaz
+295,S295,Sameer Siddiqui,OS,Sameer Dar
+296,S296,Hina Latif,OS,Eman Hashmi
+297,S297,Abdullah Qureshi,AI,Zara Saleem
+298,S298,Yasir Ansari,CN,Hassan Sheikh
+299,S299,Ayesha Dar,DBMS,Usman Sheikh|Mahnoor Chaudhry|Taha Khan
+300,S300,Ali Raza,CN,Amna Butt
+301,S301,Mahnoor Butt,CN,Taha Malik|Ahmed Qureshi
+302,S302,Amna Hashmi,ML,Danish Rashid|Yasir Hussain
+303,S303,Yasir Iqbal,DSA,Rabia Javed|Kinza Ahmed|Abdullah Rashid
+304,S304,Mahnoor Abbasi,DSA,Khadija Nawaz|Danish Zafar|Sameer Saleem
+305,S305,Hassan Akhtar,DBMS,Anaya Sheikh|Eman Ali|Anaya Chaudhry
+306,S306,Hina Hashmi,DSA,Saad Nawaz
+307,S307,Mehak Zafar,SE,Farhan Zafar|Shahzaib Siddiqui|Shahzaib Chaudhry
+308,S308,Sana Aslam,DBMS,Sameer Farooq|Hina Aslam
+309,S309,Fatima Butt,AI,Zain Iqbal
+310,S310,Zain Khan,OS,Eman Latif|Amna Ansari|Danish Rehman
+311,S311,Bilal Qureshi,OS,Mahnoor Rehman|Iqra Mirza|Ayesha Hussain
+312,S312,Danish Akhtar,OS,Eman Raza|Sidra Hashmi
+313,S313,Anaya Chaudhry,DSA,Mahnoor Bukhari
+314,S314,Saad Zafar,AI,Hussain Chaudhry
+315,S315,Ahmed Abbasi,SE,Farhan Zafar|Mahnoor Javed
+316,S316,Anaya Sheikh,OS,Rabia Shah|Talha Ansari|Hamza Bukhari
+317,S317,Ayesha Bukhari,AI,Bilal Dar|Hina Javed
+318,S318,Abdullah Javed,CN,Sameer Rehman|Zain Butt
+319,S319,Danish Malik,CN,Ayesha Bukhari|Ayesha Siddiqui
+320,S320,Rabia Sheikh,ML,Mehak Nawaz|Mahnoor Butt|Mehak Dar
+321,S321,Mahnoor Chaudhry,DSA,Bilal Ali
+322,S322,Ali Butt,DBMS,Hussain Raza
+323,S323,Kinza Malik,CN,Iqra Baig|Talha Shah
+324,S324,Ayaan Nawaz,DSA,Usman Raza
+325,S325,Laiba Iqbal,DBMS,Fatima Baig|Ayesha Bukhari
+326,S326,Maryam Rehman,DSA,Yasir Ansari|Hussain Chaudhry
+327,S327,Eman Ali,DBMS,Sana Shah|Rabia Shah|Abdullah Abbasi
+328,S328,Taha Hussain,DSA,Yasir Ali
+329,S329,Eman Hashmi,SE,Sana Dar|Laiba Ali|Iqra Chaudhry
+330,S330,Sana Siddiqui,AI,Nimra Ahmed|Amna Nawaz
+331,S331,Khadija Ali,SE,Iqra Hashmi|Sana Saleem|Iqra Chaudhry
+332,S332,Shahzaib Rashid,OS,Noor Siddiqui|Ayaan Farooq
+333,S333,Iqra Chaudhry,CN,Shahzaib Siddiqui|Amna Nawaz
+334,S334,Rabia Dar,DSA,Sameer Hashmi
+335,S335,Usman Raza,SE,Iqra Iqbal|Ibrahim Hussain
+336,S336,Fatima Shah,SE,Saad Raza|Mehak Zafar|Ayesha Shah
+337,S337,Rabia Rashid,DBMS,Maryam Siddiqui
+338,S338,Khadija Dar,AI,Yasir Iqbal|Sidra Khan
+339,S339,Farhan Dar,AI,Danish Baig
+340,S340,Laiba Ali,AI,Hina Saleem|Nimra Latif|Iqra Sheikh
+341,S341,Fatima Latif,OS,Talha Mirza|Usman Malik|Amna Farooq
+342,S342,Talha Bukhari,DSA,Usman Khan
+343,S343,Talha Saleem,CN,Anaya Sheikh|Taha Dar|Ayaan Dar
+344,S344,Zain Butt,OS,Danish Javed|Abdullah Dar
+345,S345,Saad Zafar,AI,Talha Rashid
+346,S346,Ibrahim Ahmed,DBMS,Hamza Javed|Anaya Bukhari|Ayaan Mirza
+347,S347,Rabia Iqbal,DBMS,Ahmed Bukhari
+348,S348,Danish Ansari,DSA,Sara Raza
+349,S349,Laiba Latif,ML,Sameer Butt
+350,S350,Zara Mirza,CN,Zain Dar|Danish Ali|Rabia Iqbal
+351,S351,Danish Hussain,AI,Sara Ali|Fatima Abbasi
+352,S352,Khadija Dar,DSA,Abdullah Hussain
+353,S353,Amna Butt,DBMS,Bilal Hashmi
+354,S354,Bilal Akhtar,DSA,Ali Qureshi|Shahzaib Chaudhry|Anaya Shah
+355,S355,Hina Aslam,ML,Abdullah Dar|Danish Ansari
+356,S356,Eman Rehman,SE,Laiba Ali|Iqra Baig|Khadija Khan
+357,S357,Kinza Butt,SE,Yasir Shah|Abdullah Aslam|Saad Bukhari
+358,S358,Saad Sheikh,ML,Ayesha Hussain|Hussain Rashid|Nimra Ansari
+359,S359,Nimra Latif,SE,Mahnoor Farooq|Saad Bukhari
+360,S360,Mahnoor Bukhari,SE,Anaya Bukhari
+361,S361,Nimra Ahmed,CN,Yasir Hussain
+362,S362,Ahmed Siddiqui,CN,Saad Latif|Yasir Raza|Ahmed Ahmed
+363,S363,Hamza Bukhari,OS,Iqra Bukhari|Iqra Khan
+364,S364,Saad Bukhari,AI,Bilal Iqbal|Ibrahim Qureshi
+365,S365,Ayaan Mirza,AI,Rabia Javed
+366,S366,Saad Rehman,ML,Zain Dar
+367,S367,Shahzaib Farooq,SE,Hassan Sheikh|Noor Butt|Laiba Rehman
+368,S368,Zara Baig,CN,Maryam Malik|Iqra Sheikh|Shahzaib Siddiqui
+369,S369,Maryam Khan,ML,Hina Saleem|Sidra Akhtar|Yasir Latif
+370,S370,Sameer Aslam,CN,Bilal Malik
+371,S371,Kinza Zafar,OS,Hussain Hussain
+372,S372,Kinza Ahmed,ML,Mahnoor Mirza|Ahmed Qureshi|Saad Sheikh
+373,S373,Nimra Ansari,DBMS,Ali Ansari
+374,S374,Ayaan Javed,AI,Rabia Rashid|Ibrahim Bukhari|Hussain Chaudhry
+375,S375,Shahzaib Raza,CN,Zain Qureshi|Ahmed Nawaz|Hina Javed
+376,S376,Khadija Ansari,ML,Shahzaib Malik|Farhan Ali
+377,S377,Maryam Raza,DSA,Shahzaib Zafar
+378,S378,Iqra Baig,AI,Eman Saleem
+379,S379,Hina Saleem,OS,Saad Ansari|Hamza Baig
+380,S380,Bilal Siddiqui,OS,Kinza Ahmed|Iqra Rashid
+381,S381,Mahnoor Ali,CN,Iqra Khan|Bilal Iqbal
+382,S382,Saad Raza,CN,Taha Hussain|Iqra Khan|Talha Aslam
+383,S383,Ibrahim Javed,ML,Danish Siddiqui|Usman Raza
+384,S384,Ayesha Latif,DBMS,Khadija Saleem|Maryam Nawaz
+385,S385,Usman Qureshi,DBMS,Usman Iqbal|Shahzaib Siddiqui|Hassan Saleem
+386,S386,Usman Ali,CN,Ayaan Chaudhry|Sana Aslam|Ibrahim Baig
+387,S387,Amna Sheikh,AI,Kinza Ahmed
+388,S388,Fatima Aslam,CN,Kinza Ahmed
+389,S389,Amna Ansari,CN,Rabia Aslam
+390,S390,Usman Butt,AI,Zara Zafar|Mahnoor Aslam
+391,S391,Mahnoor Iqbal,SE,Ali Abbasi|Noor Akhtar
+392,S392,Talha Butt,SE,Sameer Akhtar
+393,S393,Bilal Javed,OS,Mehak Ahmed|Rabia Shah|Mahnoor Abbasi
+394,S394,Bilal Hussain,AI,Abdullah Dar|Zara Hashmi|Yasir Sheikh
+395,S395,Shahzaib Abbasi,AI,Ayaan Javed|Ayaan Chaudhry|Sameer Farooq
+396,S396,Rabia Rashid,OS,Saad Zafar|Amna Farooq|Hamza Latif
+397,S397,Usman Sheikh,SE,Fatima Abbasi|Iqra Ansari
+398,S398,Laiba Siddiqui,ML,Sidra Ahmed|Sana Latif
+399,S399,Shahzaib Akhtar,OS,Mehak Shah
+400,S400,Ayesha Qureshi,DSA,Abdullah Dar|Omar Latif|Kinza Malik
+401,S401,Mahnoor Abbasi,ML,Ayesha Shah|Saad Khan|Eman Rehman
+402,S402,Ayaan Hashmi,AI,Anaya Hussain
+403,S403,Hassan Sheikh,DSA,Shahzaib Ansari|Mahnoor Bukhari|Danish Mirza
+404,S404,Talha Saleem,ML,Taha Hussain
+405,S405,Rabia Sheikh,DBMS,Zara Mirza
+406,S406,Zain Butt,DSA,Maryam Raza|Farhan Raza|Saad Zafar
+407,S407,Iqra Nawaz,ML,Ayaan Dar|Sameer Butt
+408,S408,Anaya Nawaz,OS,Talha Shah|Shahzaib Zafar|Sameer Rehman
+409,S409,Bilal Iqbal,DBMS,Ayesha Hussain|Zara Iqbal
+410,S410,Iqra Siddiqui,AI,Fatima Bukhari
+411,S411,Rabia Siddiqui,DSA,Iqra Chaudhry|Amna Sheikh
+412,S412,Mehak Dar,AI,Saad Raza|Nimra Farooq
+413,S413,Khadija Bukhari,DBMS,Eman Shah
+414,S414,Hassan Aslam,OS,Zain Qureshi
+415,S415,Mahnoor Latif,DSA,Hassan Raza|Danish Malik|Hussain Raza
+416,S416,Hassan Hashmi,AI,Anaya Saleem|Taha Siddiqui
+417,S417,Yasir Hussain,AI,Maryam Rehman
+418,S418,Mahnoor Aslam,OS,Saad Ali|Farhan Raza
+419,S419,Saad Latif,DSA,Hassan Raza|Shahzaib Zafar
+420,S420,Abdullah Sheikh,OS,Amna Iqbal|Ayaan Farooq|Danish Rehman
+421,S421,Ayaan Farooq,AI,Sana Shah|Kinza Sheikh
+422,S422,Fatima Nawaz,AI,Iqra Ansari|Hamza Akhtar|Anaya Bukhari
+423,S423,Taha Latif,DSA,Saad Zafar|Bilal Akhtar|Omar Hashmi
+424,S424,Kinza Baig,ML,Ibrahim Bukhari|Eman Shah|Danish Ansari
+425,S425,Omar Butt,DBMS,Abdullah Aslam
+426,S426,Sara Abbasi,DBMS,Bilal Javed|Rabia Sheikh|Hassan Ahmed
+427,S427,Hamza Hashmi,DBMS,Ayesha Javed|Shahzaib Akhtar
+428,S428,Bilal Hussain,ML,Omar Shah|Laiba Siddiqui|Maryam Khan
+429,S429,Usman Malik,SE,Talha Chaudhry
+430,S430,Fatima Ali,DBMS,Yasir Saleem|Zain Butt
+431,S431,Danish Zafar,DBMS,Noor Ahmed
+432,S432,Iqra Butt,SE,Yasir Ali|Hina Hashmi|Ayaan Hashmi
+433,S433,Fatima Ahmed,ML,Laiba Siddiqui|Mehak Chaudhry|Iqra Khan
+434,S434,Ibrahim Bukhari,DBMS,Mehak Rashid
+435,S435,Maryam Aslam,OS,Saad Rehman
+436,S436,Ali Akhtar,DBMS,Khadija Saleem|Yasir Shah
+437,S437,Kinza Ahmed,AI,Ibrahim Iqbal|Shahzaib Aslam
+438,S438,Noor Ansari,CN,Sameer Ansari|Shahzaib Zafar|Ayaan Mirza
+439,S439,Sameer Farooq,SE,Farhan Raza|Sana Shah
+440,S440,Zara Saleem,DSA,Anaya Rashid|Laiba Latif
+441,S441,Bilal Ali,DSA,Ayesha Iqbal
+442,S442,Rabia Shah,AI,Eman Qureshi
+443,S443,Ahmed Ahmed,SE,Saad Khan|Mahnoor Aslam|Sana Aslam
+444,S444,Iqra Mirza,ML,Mehak Dar|Yasir Latif|Noor Khan
+445,S445,Farhan Javed,DBMS,Bilal Iqbal|Sara Akhtar
+446,S446,Farhan Ali,DBMS,Ibrahim Ahmed|Amna Iqbal|Yasir Ali
+447,S447,Sana Aslam,CN,Ahmed Javed|Amna Nawaz|Laiba Akhtar
+448,S448,Hamza Latif,OS,Iqra Latif
+449,S449,Ayesha Rehman,AI,Farhan Malik
+450,S450,Iqra Iqbal,DBMS,Talha Butt|Saad Shah
+451,S451,Iqra Ansari,ML,Mehak Siddiqui|Shahzaib Raza|Usman Sheikh
+452,S452,Omar Latif,DSA,Danish Mirza|Nimra Farooq|Mahnoor Baig
+453,S453,Ayesha Farooq,DBMS,Ahmed Siddiqui|Danish Hussain
+454,S454,Shahzaib Latif,OS,Mahnoor Rehman|Fatima Abbasi
+455,S455,Abdullah Rashid,DSA,Laiba Rehman
+456,S456,Khadija Zafar,ML,Saad Sheikh|Ayesha Chaudhry
+457,S457,Hina Javed,CN,Maryam Iqbal|Mahnoor Abbasi|Zara Zafar
+458,S458,Ibrahim Bukhari,SE,Eman Ansari
+459,S459,Bilal Malik,ML,Mehak Zafar|Eman Ali
+460,S460,Shahzaib Akhtar,AI,Iqra Baig|Mahnoor Mirza|Laiba Rashid
+461,S461,Hina Rashid,CN,Abdullah Qureshi
+462,S462,Anaya Shah,DSA,Hussain Rashid|Amna Butt
+463,S463,Ibrahim Bukhari,CN,Shahzaib Akhtar
+464,S464,Ayesha Iqbal,CN,Hina Akhtar|Maryam Malik
+465,S465,Hina Saleem,ML,Abdullah Rashid
+466,S466,Iqra Sheikh,DSA,Talha Dar|Hassan Hashmi
+467,S467,Ahmed Nawaz,AI,Anaya Rashid|Rabia Butt
+468,S468,Anaya Sheikh,AI,Sana Latif|Omar Baig|Noor Latif
+469,S469,Ibrahim Rehman,AI,Mahnoor Abbasi|Abdullah Javed|Eman Ali
+470,S470,Mahnoor Rehman,DBMS,Danish Saleem
+471,S471,Hamza Bukhari,AI,Talha Saleem|Ayaan Malik|Bilal Ali
+472,S472,Shahzaib Aslam,CN,Talha Butt|Mehak Rashid|Hamza Bukhari
+473,S473,Mahnoor Dar,CN,Maryam Dar|Usman Nawaz
+474,S474,Abdullah Dar,AI,Maryam Chaudhry|Ayaan Nawaz
+475,S475,Nimra Rashid,CN,Usman Raza|Mehak Siddiqui|Ayesha Malik
+476,S476,Taha Sheikh,DSA,Bilal Saleem
+477,S477,Bilal Latif,DBMS,Ibrahim Latif|Kinza Baig
+478,S478,Hussain Rashid,SE,Usman Qureshi
+479,S479,Iqra Bukhari,DSA,Yasir Ali|Nimra Ahmed|Danish Ali
+480,S480,Iqra Ansari,OS,Shahzaib Akhtar|Eman Saleem
+481,S481,Sana Hashmi,DSA,Shahzaib Latif|Ali Ahmed
+482,S482,Mehak Butt,SE,Maryam Ali|Shahzaib Nawaz
+483,S483,Hassan Sheikh,AI,Danish Mirza|Talha Saleem
+484,S484,Hamza Rehman,DSA,Maryam Akhtar|Zara Nawaz|Amna Nawaz
+485,S485,Iqra Shah,CN,Sameer Malik
+486,S486,Danish Siddiqui,DSA,Sameer Raza|Ali Raza|Amna Nawaz
+487,S487,Anaya Ansari,OS,Khadija Ansari
+488,S488,Abdullah Shah,DBMS,Saad Sheikh
+489,S489,Talha Aslam,DBMS,Ali Ahmed|Amna Qureshi
+490,S490,Usman Nawaz,CN,Hassan Sheikh
+491,S491,Eman Dar,CN,Danish Rashid
+492,S492,Ayaan Iqbal,OS,Mahnoor Dar
+493,S493,Ayaan Mirza,ML,Hamza Bukhari|Ali Abbasi|Sana Latif
+494,S494,Shahzaib Raza,DSA,Iqra Latif|Nimra Farooq|Mahnoor Rehman
+495,S495,Shahzaib Chaudhry,SE,Danish Ali|Laiba Latif
+496,S496,Rabia Malik,ML,Iqra Khan|Ayaan Nawaz
+497,S497,Sameer Mirza,OS,Danish Ahmed
+498,S498,Ali Chaudhry,DSA,Sameer Akhtar|Maryam Nawaz|Sameer Malik
+499,S499,Ali Raza,DBMS,Abdullah Rehman|Kinza Bukhari
+500,S500,Iqra Khan,AI,Talha Butt|Iqra Sheikh|Kinza Zafar
+501,S501,Ibrahim Ahmed,ML,Hassan Rashid|Noor Butt
+502,S502,Talha Abbasi,ML,Shahzaib Latif|Mehak Nawaz|Iqra Abbasi
+503,S503,Talha Ansari,ML,Rabia Siddiqui|Saad Bukhari
+504,S504,Mehak Siddiqui,AI,Eman Javed
+505,S505,Kinza Malik,SE,Nimra Baig|Hamza Hashmi
+506,S506,Anaya Zafar,DSA,Hussain Malik|Fatima Butt
+507,S507,Kinza Aslam,ML,Sana Saleem
+508,S508,Fatima Zafar,DSA,Mahnoor Dar
+509,S509,Hamza Javed,OS,Mahnoor Rehman|Ayaan Sheikh|Farhan Ali
+510,S510,Taha Khan,SE,Ayesha Bukhari|Amna Sheikh|Mehak Butt
+511,S511,Taha Siddiqui,SE,Maryam Khan|Shahzaib Nawaz|Ahmed Bukhari
+512,S512,Khadija Baig,CN,Kinza Ahmed|Eman Latif|Anaya Chaudhry
+513,S513,Kinza Mirza,AI,Hina Javed|Hamza Baig
+514,S514,Ayesha Bukhari,CN,Maryam Shah
+515,S515,Mahnoor Javed,DSA,Maryam Dar|Rabia Hashmi|Talha Dar
+516,S516,Sana Javed,OS,Mahnoor Rehman|Hina Hashmi|Laiba Dar
+517,S517,Kinza Sheikh,ML,Saad Qureshi
+518,S518,Amna Hussain,DSA,Bilal Dar|Ayesha Chaudhry|Ali Raza
+519,S519,Khadija Saleem,ML,Sameer Aslam
+520,S520,Ali Qureshi,OS,Mahnoor Abbasi
+521,S521,Zara Farooq,CN,Bilal Dar|Omar Butt
+522,S522,Iqra Hashmi,CN,Talha Shah
+523,S523,Hassan Rashid,DBMS,Laiba Rashid|Yasir Ansari
+524,S524,Nimra Javed,DBMS,Noor Siddiqui
+525,S525,Iqra Latif,DSA,Laiba Rehman|Maryam Iqbal|Sidra Chaudhry
+526,S526,Sana Hashmi,DBMS,Nimra Baig|Zara Baig|Ibrahim Javed
+527,S527,Sara Ali,ML,Yasir Raza|Mahnoor Aslam
+528,S528,Laiba Rashid,SE,Kinza Butt|Sana Javed|Hassan Sheikh
+529,S529,Ayesha Hussain,DSA,Farhan Javed|Zain Butt
+530,S530,Nimra Bukhari,OS,Noor Nawaz|Bilal Farooq|Sameer Hashmi
+531,S531,Mahnoor Nawaz,SE,Eman Rehman
+532,S532,Eman Saleem,AI,Sana Latif
+533,S533,Ayaan Chaudhry,DSA,Sara Raza|Maryam Chaudhry
+534,S534,Shahzaib Zafar,AI,Rabia Sheikh|Eman Zafar
+535,S535,Sameer Ansari,DBMS,Hina Siddiqui|Mehak Shah
+536,S536,Zain Malik,DBMS,Mahnoor Abbasi
+537,S537,Mehak Ansari,DBMS,Bilal Hashmi
+538,S538,Abdullah Rehman,CN,Omar Shah|Usman Sheikh
+539,S539,Abdullah Siddiqui,ML,Hina Rashid|Usman Butt
+540,S540,Taha Dar,SE,Shahzaib Nawaz
+541,S541,Danish Qureshi,DSA,Zain Latif|Anaya Iqbal|Sameer Malik
+542,S542,Nimra Baig,CN,Maryam Nawaz|Taha Abbasi
+543,S543,Shahzaib Siddiqui,CN,Ayesha Latif
+544,S544,Iqra Sheikh,ML,Ayesha Shah|Ayesha Dar
+545,S545,Mehak Khan,DBMS,Rabia Rashid|Usman Khan
+546,S546,Eman Farooq,CN,Saad Sheikh
+547,S547,Farhan Qureshi,AI,Danish Siddiqui|Ahmed Ahmed
+548,S548,Shahzaib Javed,ML,Ahmed Khan
+549,S549,Eman Raza,ML,Danish Malik|Fatima Sheikh
+550,S550,Zain Ahmed,DSA,Ibrahim Latif|Mehak Butt
+551,S551,Hussain Hussain,CN,Mahnoor Rehman|Fatima Bukhari
+552,S552,Zain Butt,DBMS,Taha Latif|Zain Iqbal
+553,S553,Saad Shah,CN,Noor Siddiqui|Sana Raza
+554,S554,Ahmed Qureshi,AI,Sameer Ansari|Mehak Nawaz
+555,S555,Rabia Latif,ML,Ayesha Khan|Mahnoor Abbasi
+556,S556,Hussain Chaudhry,OS,Mahnoor Rehman|Amna Iqbal
+557,S557,Omar Hashmi,SE,Saad Shah
+558,S558,Nimra Saleem,CN,Ali Chaudhry
+559,S559,Zara Ansari,DSA,Shahzaib Nawaz
+560,S560,Zain Latif,CN,Ibrahim Aslam|Mahnoor Bukhari|Amna Ansari
+561,S561,Amna Butt,OS,Ayesha Qureshi|Amna Sheikh|Khadija Ahmed
+562,S562,Hussain Chaudhry,SE,Ayesha Qureshi|Iqra Sheikh
+563,S563,Abdullah Hussain,DBMS,Zain Butt|Taha Abbasi
+564,S564,Farhan Nawaz,DSA,Ahmed Javed
+565,S565,Talha Ahmed,DBMS,Fatima Latif|Zain Butt
+566,S566,Iqra Iqbal,AI,Omar Shah|Shahzaib Raza|Iqra Chaudhry
+567,S567,Saad Latif,ML,Shahzaib Chaudhry
+568,S568,Laiba Zafar,AI,Sameer Akhtar
+569,S569,Maryam Dar,ML,Ahmed Siddiqui|Hassan Rashid|Saad Nawaz
+570,S570,Amna Rashid,DSA,Ahmed Qureshi|Ibrahim Bukhari|Danish Saleem
+571,S571,Iqra Siddiqui,DBMS,Sara Abbasi
+572,S572,Maryam Siddiqui,OS,Sidra Khan
+573,S573,Kinza Ahmed,OS,Abdullah Siddiqui|Khadija Zafar|Mahnoor Dar
+574,S574,Zara Nawaz,CN,Ahmed Abbasi
+575,S575,Ayesha Siddiqui,ML,Khadija Ansari
+576,S576,Mahnoor Javed,AI,Khadija Dar|Ali Raza|Mahnoor Siddiqui
+577,S577,Sidra Ahmed,ML,Danish Malik
+578,S578,Anaya Bukhari,CN,Amna Hashmi|Hamza Baig|Rabia Khan
+579,S579,Ayaan Dar,ML,Saad Ansari
+580,S580,Mehak Shah,SE,Nimra Qureshi|Hassan Aslam
+581,S581,Shahzaib Khan,ML,Amna Nawaz
+582,S582,Eman Ansari,CN,Bilal Hashmi
+583,S583,Abdullah Dar,OS,Bilal Ali|Yasir Latif
+584,S584,Laiba Rehman,OS,Hamza Latif|Eman Dar|Mehak Shah
+585,S585,Omar Raza,CN,Fatima Butt|Laiba Latif
+586,S586,Noor Latif,OS,Hamza Akhtar|Sameer Dar|Kinza Sheikh
+587,S587,Hina Raza,CN,Ibrahim Ahmed|Iqra Iqbal|Talha Abbasi
+588,S588,Ibrahim Aslam,ML,Ayaan Sheikh
+589,S589,Danish Malik,DBMS,Kinza Bukhari
+590,S590,Mehak Ahmed,OS,Saad Rehman|Hamza Iqbal
+591,S591,Hina Javed,DSA,Noor Ansari|Talha Saleem|Mahnoor Aslam
+592,S592,Yasir Ansari,DBMS,Abdullah Sheikh|Maryam Dar
+593,S593,Rabia Aslam,OS,Omar Butt|Maryam Khan
+594,S594,Sara Rashid,SE,Kinza Aslam|Fatima Abbasi|Maryam Rehman
+595,S595,Sara Siddiqui,DBMS,Ali Abbasi|Amna Butt|Hussain Raza
+596,S596,Noor Ahmed,ML,Shahzaib Chaudhry
+597,S597,Maryam Akhtar,ML,Kinza Malik|Mahnoor Abbasi|Kinza Malik
+598,S598,Danish Saleem,ML,Ali Qureshi|Fatima Akhtar|Mahnoor Dar
+599,S599,Mahnoor Aslam,OS,Ayesha Ansari|Maryam Chaudhry|Iqra Siddiqui
+600,S600,Eman Javed,ML,Sara Bukhari

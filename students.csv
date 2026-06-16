@@ -1,0 +1,101 @@
+StudentID,Name,Subject,FriendGroupID,CheatingRiskScore
+S001,Student_1,Math,9,3
+S002,Student_2,Math,10,5
+S003,Student_3,Physics,9,9
+S004,Student_4,Math,8,4
+S005,Student_5,Math,1,4
+S006,Student_6,Math,15,6
+S007,Student_7,Math,10,6
+S008,Student_8,Physics,19,10
+S009,Student_9,Math,11,1
+S010,Student_10,Biology,3,1
+S011,Student_11,Math,11,1
+S012,Student_12,Physics,18,3
+S013,Student_13,Math,17,4
+S014,Student_14,Chemistry,19,2
+S015,Student_15,Math,1,8
+S016,Student_16,Math,16,3
+S017,Student_17,Biology,15,1
+S018,Student_18,Physics,7,3
+S019,Student_19,Physics,18,9
+S020,Student_20,Biology,20,5
+S021,Student_21,Biology,16,2
+S022,Student_22,Chemistry,4,5
+S023,Student_23,Physics,11,9
+S024,Student_24,Chemistry,3,6
+S025,Student_25,Math,8,4
+S026,Student_26,Biology,8,4
+S027,Student_27,Math,4,1
+S028,Student_28,Computer Science,18,5
+S029,Student_29,Physics,9,1
+S030,Student_30,Math,5,1
+S031,Student_31,Biology,11,4
+S032,Student_32,Biology,10,1
+S033,Student_33,Chemistry,14,1
+S034,Student_34,Math,5,4
+S035,Student_35,Chemistry,17,4
+S036,Student_36,Math,2,8
+S037,Student_37,Biology,4,3
+S038,Student_38,Math,10,6
+S039,Student_39,Math,1,4
+S040,Student_40,Computer Science,10,1
+S041,Student_41,Biology,12,2
+S042,Student_42,Biology,4,2
+S043,Student_43,Physics,2,3
+S044,Student_44,Math,5,4
+S045,Student_45,Biology,3,2
+S046,Student_46,Chemistry,14,1
+S047,Student_47,Chemistry,3,6
+S048,Student_48,Computer Science,15,4
+S049,Student_49,Math,20,6
+S050,Student_50,Biology,13,4
+S051,Student_51,Physics,16,3
+S052,Student_52,Chemistry,14,3
+S053,Student_53,Chemistry,19,8
+S054,Student_54,Chemistry,7,5
+S055,Student_55,Biology,4,5
+S056,Student_56,Physics,20,6
+S057,Student_57,Biology,18,6
+S058,Student_58,Computer Science,17,2
+S059,Student_59,Chemistry,11,2
+S060,Student_60,Chemistry,4,4
+S061,Student_61,Chemistry,3,6
+S062,Student_62,Biology,8,6
+S063,Student_63,Physics,8,1
+S064,Student_64,Computer Science,11,5
+S065,Student_65,Math,16,5
+S066,Student_66,Biology,1,4
+S067,Student_67,Biology,10,2
+S068,Student_68,Biology,8,8
+S069,Student_69,Physics,10,3
+S070,Student_70,Computer Science,19,10
+S071,Student_71,Computer Science,3,1
+S072,Student_72,Biology,10,1
+S073,Student_73,Chemistry,12,1
+S074,Student_74,Math,13,8
+S075,Student_75,Chemistry,16,5
+S076,Student_76,Chemistry,15,3
+S077,Student_77,Physics,12,2
+S078,Student_78,Math,12,10
+S079,Student_79,Biology,17,3
+S080,Student_80,Physics,19,10
+S081,Student_81,Physics,15,4
+S082,Student_82,Biology,18,7
+S083,Student_83,Chemistry,1,1
+S084,Student_84,Chemistry,16,7
+S085,Student_85,Biology,9,1
+S086,Student_86,Math,3,5
+S087,Student_87,Physics,8,9
+S088,Student_88,Computer Science,1,4
+S089,Student_89,Computer Science,16,6
+S090,Student_90,Chemistry,1,2
+S091,Student_91,Math,7,2
+S092,Student_92,Math,20,4
+S093,Student_93,Computer Science,4,5
+S094,Student_94,Biology,2,7
+S095,Student_95,Biology,20,7
+S096,Student_96,Math,16,10
+S097,Student_97,Computer Science,12,10
+S098,Student_98,Math,1,6
+S099,Student_99,Biology,19,3
+S100,Student_100,Math,11,10
