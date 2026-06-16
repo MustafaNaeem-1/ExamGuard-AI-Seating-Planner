@@ -175,7 +175,8 @@ The repository already includes sample files for testing:
 
 - [students.csv](students.csv)
 - [students_full.csv](students_full.csv)
-- [Project.png](Project.png)
+- [Sample_Data_1.png](Sample_Data_1.png)
+- [Sample_Data_2.png](Sample_Data_2.png)
 
 ## Use Cases
 
