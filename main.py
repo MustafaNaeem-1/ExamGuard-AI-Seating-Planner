@@ -4,7 +4,7 @@ import sys
 import os
     
 def start_servers():
-    print("Starting the Examatrix Web App...")
+    print("Starting the ExamGuard Web App...")
     
     base_dir = os.path.dirname(os.path.abspath(__file__))
     backend_dir = os.path.join(base_dir, "backend")
