@@ -190,17 +190,8 @@ The repository already includes sample files for testing:
 - OCR accuracy depends on image quality and formatting
 - Excel import requires `openpyxl`
 - the optimization is heuristic-based, not a full constraint solver
-- authentication and deployment are not included in this academic prototype
 
-## Future Improvements
-
-- export seating charts as PDF
-- multi-hall support
-- invigilator allocation
-- stronger analytics and reporting
-- role-based access control
-- cloud deployment
 
 ## Author
 
-Built as an academic AI project focused on exam integrity, seating optimization, and safer hall planning.
+Mustafa Naeem
